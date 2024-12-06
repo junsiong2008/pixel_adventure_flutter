@@ -8,11 +8,14 @@
     ],
     "fileStates": {
         "Level-01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1.6253906249999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 319.9230954097573,
-                "y": 184.26339822158138
+                "x": 315.0012016342226,
+                "y": 212.25666906993519
             }
         },
         "Pixel Adventure.tsx": {

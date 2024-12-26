@@ -2,8 +2,8 @@ import 'dart:async';
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
 import 'package:flame/game.dart';
-import 'package:pixel_adventure_flutter/actors/player.dart';
-import 'package:pixel_adventure_flutter/levels/level.dart';
+import 'package:pixel_adventure_flutter/components/player.dart';
+import 'package:pixel_adventure_flutter/components/level.dart';
 import 'package:flutter/material.dart';
 
 class PixelAdventure extends FlameGame

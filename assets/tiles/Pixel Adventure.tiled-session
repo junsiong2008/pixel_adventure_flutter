@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Level-02.tmx",
+    "activeFile": "Level-01.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -13,18 +13,21 @@
                 2
             ],
             "scale": 1.6253906249999999,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 315.0012016342226,
-                "y": 212.25666906993519
+                "x": 222.10045662100458,
+                "y": 213.1795241528479
             }
         },
         "Level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1.6253906249999999,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 319.9230954097573,
-                "y": 151.04061523672198
+                "x": 319.3078586878155,
+                "y": 146.73395818312912
             }
         },
         "Pixel Adventure.tsx": {
@@ -46,8 +49,8 @@
     "project": "Pixel Adventure.tiled-project",
     "recentFiles": [
         "Pixel Adventure.tsx",
-        "Level-01.tmx",
-        "Level-02.tmx"
+        "Level-02.tmx",
+        "Level-01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
